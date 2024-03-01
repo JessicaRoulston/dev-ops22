@@ -3,4 +3,6 @@ shirts
 
 t-shirts
 
+shoes
+
 thank you
